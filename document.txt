@@ -1,0 +1,13 @@
+frontend npm packages
+npm install @sanity/client @sanity/image-url react-google-login react-icons react-loader-spinner react-masonry-css react-router-dom uuid
+
+
+
+https://github.com/adrianhajdin/project_shareme_social_media
+
+React js google authentication
+https://www.youtube.com/watch?v=TqlVP_IkS28
+
+Gitignore templates
+https://github.com/github/gitignore
+https://www.pluralsight.com/guides/creating-gitignore-for-clean-react-repository
